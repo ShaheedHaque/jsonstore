@@ -16,6 +16,6 @@ __all__ = (
 )
 
 
-import warnings
+#import warnings
 
-warnings.warn("The package was merged into django-viewflow. Please consider to switch to django-viewflow>=2.0.0b1")
+#warnings.warn("The package was merged into django-viewflow. Please consider to switch to django-viewflow>=2.0.0b1")
